@@ -958,8 +958,6 @@ public class Rectangle {
 
 让我们看看一组类，看看访问级别如何影响可见性。下图显示了本示例中的四个类以及它们之间的关系。
 
-![Classes and Packages of the Example Used to Illustrate Access Levels](Oracle-Java类和对象/classes-access.gif)
-
 下表显示了Alpha类的成员对于可以应用于它们的每个访问修饰符的可见位置。
 
 | Modifier    | Alpha | Beta | Alphasub | Gamma |

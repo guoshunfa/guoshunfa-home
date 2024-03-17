@@ -405,8 +405,6 @@ for genre in favoriteGenres.sorted() {
 
 下面的插图描绘了两个集合——`a`和`b`——以及由阴影区域表示的各种集合操作的结果。
 
-<img src="./202204050952306.png" alt="../_images/setVennDiagram_2x.png" style="zoom: 67%;" />
-
 - 使用`intersection(_:)`方法创建一个新集合，其中只有两个集合共有的值。
 - 使用`symmetricDifference(_:)`方法创建一个新集合，其中两个集合都有值，但不是两者。
 - 使用`union(_:)`方法创建一个包含两个集合中所有值的新集合。
